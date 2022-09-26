@@ -1,0 +1,273 @@
+,result_madden_new,result_ML,For,Against,Combine_Results
+0,W,W,Buffalo Bills,Los Angeles Rams,Same
+1,W,W,New Orleans Saints,Atlanta Falcons,Same
+2,W,W,Cleveland Browns,Carolina Panthers,Same
+3,W,W,San Francisco 49ers,Chicago Bears,Same
+4,L,L,Pittsburgh Steelers,Cincinnati Bengals,Same
+5,W,W,Philadelphia Eagles,Detroit Lions,Same
+6,W,L,Indianapolis Colts,Houston Texans,Same
+7,W,W,New England Patriots,Miami Dolphins,Same
+8,L,L,Baltimore Ravens,New York Jets,Same
+9,L,W,Jacksonville Jaguars,Washington Commanders,Same
+10,W,L,Kansas City Chiefs,Arizona Cardinals,Same
+11,L,L,Green Bay Packers,Minnesota Vikings,Same
+12,L,L,New York Giants,Tennessee Titans,Same
+13,L,W,Las Vegas Raiders,Los Angeles Chargers,Same
+14,L,L,Tampa Bay Buccaneers,Dallas Cowboys,Same
+15,L,W,Denver Broncos,Seattle Seahawks,Same
+16,W,W,Los Angeles Chargers,Kansas City Chiefs,Same
+17,L,L,New York Jets,Cleveland Browns,Same
+18,L,L,Washington Commanders,Detroit Lions,Same
+19,W,L,Indianapolis Colts,Jacksonville Jaguars,Same
+20,W,W,Tampa Bay Buccaneers,New Orleans Saints,Same
+21,W,L,Carolina Panthers,New York Giants,Same
+22,W,W,New England Patriots,Pittsburgh Steelers,Same
+23,L,L,Miami Dolphins,Baltimore Ravens,Same
+24,L,L,Atlanta Falcons,Los Angeles Rams,Same
+25,L,L,Seattle Seahawks,San Francisco 49ers,Same
+26,L,L,Cincinnati Bengals,Dallas Cowboys,Same
+27,W,W,Houston Texans,Denver Broncos,Same
+28,L,L,Arizona Cardinals,Las Vegas Raiders,Same
+29,L,L,Chicago Bears,Green Bay Packers,Same
+30,L,L,Tennessee Titans,Buffalo Bills,Same
+31,W,L,Minnesota Vikings,Philadelphia Eagles,Same
+32,L,L,Pittsburgh Steelers,Cleveland Browns,Same
+33,W,W,New Orleans Saints,Carolina Panthers,Same
+34,W,W,Houston Texans,Chicago Bears,Same
+35,W,W,Kansas City Chiefs,Indianapolis Colts,Same
+36,W,W,Buffalo Bills,Miami Dolphins,Same
+37,L,L,Detroit Lions,Minnesota Vikings,Same
+38,L,L,Baltimore Ravens,New England Patriots,Same
+39,W,L,Cincinnati Bengals,New York Jets,Same
+40,W,W,Las Vegas Raiders,Tennessee Titans,Same
+41,W,W,Philadelphia Eagles,Washington Commanders,Same
+42,L,L,Jacksonville Jaguars,Los Angeles Chargers,Same
+43,W,W,Los Angeles Rams,Arizona Cardinals,Same
+44,L,L,Atlanta Falcons,Seattle Seahawks,Same
+45,W,L,Green Bay Packers,Tampa Bay Buccaneers,Same
+46,W,W,San Francisco 49ers,Denver Broncos,Same
+47,W,W,Dallas Cowboys,New York Giants,Same
+48,L,L,Miami Dolphins,Cincinnati Bengals,Same
+49,W,W,Minnesota Vikings,New Orleans Saints,Same
+50,W,W,Cleveland Browns,Atlanta Falcons,Same
+51,L,L,Tennessee Titans,Indianapolis Colts,Same
+52,L,L,Washington Commanders,Dallas Cowboys,Same
+53,L,L,Seattle Seahawks,Detroit Lions,Same
+54,W,W,Los Angeles Chargers,Houston Texans,Same
+55,W,L,Chicago Bears,New York Giants,Same
+56,L,L,Jacksonville Jaguars,Philadelphia Eagles,Same
+57,L,W,New York Jets,Pittsburgh Steelers,Same
+58,W,W,Buffalo Bills,Baltimore Ravens,Same
+59,W,W,Arizona Cardinals,Carolina Panthers,Same
+60,L,L,New England Patriots,Green Bay Packers,Same
+61,L,L,Denver Broncos,Las Vegas Raiders,Same
+62,L,W,Kansas City Chiefs,Tampa Bay Buccaneers,Same
+63,W,W,Los Angeles Rams,San Francisco 49ers,Same
+64,W,L,Indianapolis Colts,Denver Broncos,Same
+65,L,L,New York Giants,Green Bay Packers,Same
+66,L,L,Pittsburgh Steelers,Buffalo Bills,Same
+67,W,L,Los Angeles Chargers,Cleveland Browns,Same
+68,W,W,Houston Texans,Jacksonville Jaguars,Same
+69,L,L,Chicago Bears,Minnesota Vikings,Same
+70,L,L,Seattle Seahawks,New Orleans Saints,Same
+71,L,L,Detroit Lions,New England Patriots,Same
+72,L,L,Miami Dolphins,New York Jets,Same
+73,L,L,Atlanta Falcons,Tampa Bay Buccaneers,Same
+74,L,W,Tennessee Titans,Washington Commanders,Same
+75,W,W,San Francisco 49ers,Carolina Panthers,Same
+76,W,W,Philadelphia Eagles,Arizona Cardinals,Same
+77,L,L,Dallas Cowboys,Los Angeles Rams,Same
+78,W,L,Cincinnati Bengals,Baltimore Ravens,Same
+79,W,W,Las Vegas Raiders,Kansas City Chiefs,Same
+80,W,W,Washington Commanders,Chicago Bears,Same
+81,W,W,San Francisco 49ers,Atlanta Falcons,Same
+82,L,L,New England Patriots,Cleveland Browns,Same
+83,L,W,Jacksonville Jaguars,Indianapolis Colts,Same
+84,L,L,New York Jets,Green Bay Packers,Same
+85,W,W,Minnesota Vikings,Miami Dolphins,Same
+86,W,W,Cincinnati Bengals,New Orleans Saints,Same
+87,W,W,Baltimore Ravens,New York Giants,Same
+88,W,W,Tampa Bay Buccaneers,Pittsburgh Steelers,Same
+89,L,L,Carolina Panthers,Los Angeles Rams,Same
+90,W,W,Arizona Cardinals,Seattle Seahawks,Same
+91,W,W,Buffalo Bills,Kansas City Chiefs,Same
+92,L,L,Dallas Cowboys,Philadelphia Eagles,Same
+93,L,L,Denver Broncos,Los Angeles Chargers,Same
+94,L,L,New Orleans Saints,Arizona Cardinals,Same
+95,W,W,Tampa Bay Buccaneers,Carolina Panthers,Same
+96,L,L,Atlanta Falcons,Cincinnati Bengals,Same
+97,L,L,Detroit Lions,Dallas Cowboys,Same
+98,L,L,New York Giants,Jacksonville Jaguars,Same
+99,W,L,Indianapolis Colts,Tennessee Titans,Same
+100,W,W,Cleveland Browns,Baltimore Ravens,Same
+101,W,W,Green Bay Packers,Washington Commanders,Same
+102,W,W,New York Jets,Denver Broncos,Same
+103,L,L,Houston Texans,Las Vegas Raiders,Same
+104,L,L,Seattle Seahawks,Los Angeles Chargers,Same
+105,W,W,Kansas City Chiefs,San Francisco 49ers,Same
+106,W,L,Pittsburgh Steelers,Miami Dolphins,Same
+107,L,L,Chicago Bears,New England Patriots,Same
+108,L,W,Baltimore Ravens,Tampa Bay Buccaneers,Same
+109,L,L,Denver Broncos,Jacksonville Jaguars,Same
+110,L,W,Carolina Panthers,Atlanta Falcons,Same
+111,L,L,Chicago Bears,Dallas Cowboys,Same
+112,L,L,Miami Dolphins,Detroit Lions,Same
+113,L,L,Arizona Cardinals,Minnesota Vikings,Same
+114,W,W,Las Vegas Raiders,New Orleans Saints,Same
+115,W,L,New England Patriots,New York Jets,Same
+116,L,L,Pittsburgh Steelers,Philadelphia Eagles,Same
+117,L,L,Tennessee Titans,Houston Texans,Same
+118,W,W,Washington Commanders,Indianapolis Colts,Same
+119,L,L,San Francisco 49ers,Los Angeles Rams,Same
+120,L,L,New York Giants,Seattle Seahawks,Same
+121,L,L,Green Bay Packers,Buffalo Bills,Same
+122,L,L,Cincinnati Bengals,Cleveland Browns,Same
+123,W,W,Philadelphia Eagles,Houston Texans,Same
+124,W,W,Los Angeles Chargers,Atlanta Falcons,Same
+125,W,W,Miami Dolphins,Chicago Bears,Same
+126,L,L,Carolina Panthers,Cincinnati Bengals,Same
+127,W,W,Green Bay Packers,Detroit Lions,Same
+128,W,W,Las Vegas Raiders,Jacksonville Jaguars,Same
+129,L,L,Indianapolis Colts,New England Patriots,Same
+130,W,W,Buffalo Bills,New York Jets,Same
+131,W,W,Minnesota Vikings,Washington Commanders,Same
+132,L,L,Seattle Seahawks,Arizona Cardinals,Same
+133,W,W,Los Angeles Rams,Tampa Bay Buccaneers,Same
+134,L,W,Tennessee Titans,Kansas City Chiefs,Same
+135,L,L,Baltimore Ravens,New Orleans Saints,Same
+136,W,L,Atlanta Falcons,Carolina Panthers,Same
+137,L,L,Seattle Seahawks,Tampa Bay Buccaneers,Same
+138,L,L,Minnesota Vikings,Buffalo Bills,Same
+139,W,W,Detroit Lions,Chicago Bears,Same
+140,L,W,Jacksonville Jaguars,Kansas City Chiefs,Same
+141,W,W,Cleveland Browns,Miami Dolphins,Same
+142,W,W,Houston Texans,New York Giants,Same
+143,L,L,Denver Broncos,Tennessee Titans,Same
+144,L,L,New Orleans Saints,Pittsburgh Steelers,Same
+145,L,L,Indianapolis Colts,Las Vegas Raiders,Same
+146,W,L,Dallas Cowboys,Green Bay Packers,Same
+147,L,L,Arizona Cardinals,Los Angeles Rams,Same
+148,W,W,Los Angeles Chargers,San Francisco 49ers,Same
+149,L,L,Washington Commanders,Philadelphia Eagles,Same
+150,L,L,Tennessee Titans,Green Bay Packers,Same
+151,L,W,Chicago Bears,Atlanta Falcons,Same
+152,L,L,Cleveland Browns,Buffalo Bills,Same
+153,W,W,Philadelphia Eagles,Indianapolis Colts,Same
+154,W,L,Washington Commanders,Houston Texans,Same
+155,W,W,Los Angeles Rams,New Orleans Saints,Same
+156,L,L,New York Jets,New England Patriots,Same
+157,W,W,Detroit Lions,New York Giants,Same
+158,L,L,Carolina Panthers,Baltimore Ravens,Same
+159,W,W,Las Vegas Raiders,Denver Broncos,Same
+160,L,L,Dallas Cowboys,Minnesota Vikings,Same
+161,L,L,Kansas City Chiefs,Los Angeles Chargers,Same
+162,W,W,Cincinnati Bengals,Pittsburgh Steelers,Same
+163,L,L,San Francisco 49ers,Arizona Cardinals,Same
+164,W,W,Buffalo Bills,Detroit Lions,Same
+165,L,L,New York Giants,Dallas Cowboys,Same
+166,L,L,New England Patriots,Minnesota Vikings,Same
+167,W,W,Denver Broncos,Carolina Panthers,Same
+168,L,L,Tampa Bay Buccaneers,Cleveland Browns,Same
+169,W,L,Baltimore Ravens,Jacksonville Jaguars,Same
+170,W,W,Houston Texans,Miami Dolphins,Same
+171,L,L,Chicago Bears,New York Jets,Same
+172,W,W,Cincinnati Bengals,Tennessee Titans,Same
+173,L,L,Atlanta Falcons,Washington Commanders,Same
+174,W,W,Los Angeles Chargers,Arizona Cardinals,Same
+175,W,W,Las Vegas Raiders,Seattle Seahawks,Same
+176,W,W,Los Angeles Rams,Kansas City Chiefs,Same
+177,L,L,New Orleans Saints,San Francisco 49ers,Same
+178,L,L,Green Bay Packers,Philadelphia Eagles,Same
+179,L,W,Pittsburgh Steelers,Indianapolis Colts,Same
+180,W,W,Buffalo Bills,New England Patriots,Same
+181,W,L,Pittsburgh Steelers,Atlanta Falcons,Same
+182,W,W,Green Bay Packers,Chicago Bears,Same
+183,L,W,Jacksonville Jaguars,Detroit Lions,Same
+184,W,W,Cleveland Browns,Houston Texans,Same
+185,L,L,New York Jets,Minnesota Vikings,Same
+186,W,W,Washington Commanders,New York Giants,Same
+187,L,L,Tennessee Titans,Philadelphia Eagles,Same
+188,L,L,Denver Broncos,Baltimore Ravens,Same
+189,L,L,Seattle Seahawks,Los Angeles Rams,Same
+190,L,L,Miami Dolphins,San Francisco 49ers,Same
+191,L,L,Kansas City Chiefs,Cincinnati Bengals,Same
+192,W,L,Los Angeles Chargers,Las Vegas Raiders,Same
+193,L,W,Indianapolis Colts,Dallas Cowboys,Same
+194,L,L,New Orleans Saints,Tampa Bay Buccaneers,Same
+195,L,L,Las Vegas Raiders,Los Angeles Rams,Same
+196,L,L,New York Jets,Buffalo Bills,Same
+197,W,W,Cleveland Browns,Cincinnati Bengals,Same
+198,L,L,Houston Texans,Dallas Cowboys,Same
+199,W,W,Minnesota Vikings,Detroit Lions,Same
+200,W,W,Philadelphia Eagles,New York Giants,Same
+201,L,W,Jacksonville Jaguars,Tennessee Titans,Same
+202,L,W,Baltimore Ravens,Pittsburgh Steelers,Same
+203,L,L,Miami Dolphins,Los Angeles Chargers,Same
+204,L,L,Carolina Panthers,Seattle Seahawks,Same
+205,W,L,Tampa Bay Buccaneers,San Francisco 49ers,Same
+206,W,W,Kansas City Chiefs,Denver Broncos,Same
+207,W,W,New England Patriots,Arizona Cardinals,Same
+208,W,W,San Francisco 49ers,Seattle Seahawks,Same
+209,L,L,Miami Dolphins,Buffalo Bills,Same
+210,W,W,Pittsburgh Steelers,Carolina Panthers,Same
+211,W,W,Philadelphia Eagles,Chicago Bears,Same
+212,L,L,Baltimore Ravens,Cleveland Browns,Same
+213,W,L,Kansas City Chiefs,Houston Texans,Same
+214,W,W,Dallas Cowboys,Jacksonville Jaguars,Same
+215,L,L,Indianapolis Colts,Minnesota Vikings,Same
+216,L,L,Atlanta Falcons,New Orleans Saints,Same
+217,W,L,Detroit Lions,New York Jets,Same
+218,L,L,New York Giants,Washington Commanders,Same
+219,W,W,Arizona Cardinals,Denver Broncos,Same
+220,L,L,Tennessee Titans,Los Angeles Chargers,Same
+221,L,L,Cincinnati Bengals,Tampa Bay Buccaneers,Same
+222,L,L,New England Patriots,Las Vegas Raiders,Same
+223,W,W,Los Angeles Rams,Green Bay Packers,Same
+224,L,W,Jacksonville Jaguars,New York Jets,Same
+225,W,W,Detroit Lions,Carolina Panthers,Same
+226,W,W,Buffalo Bills,Chicago Bears,Same
+227,L,L,New Orleans Saints,Cleveland Browns,Same
+228,L,W,Seattle Seahawks,Kansas City Chiefs,Same
+229,L,L,New York Giants,Minnesota Vikings,Same
+230,W,L,Cincinnati Bengals,New England Patriots,Same
+231,W,W,Houston Texans,Tennessee Titans,Same
+232,L,L,Atlanta Falcons,Baltimore Ravens,Same
+233,L,L,Washington Commanders,San Francisco 49ers,Same
+234,W,W,Philadelphia Eagles,Dallas Cowboys,Same
+235,W,W,Las Vegas Raiders,Pittsburgh Steelers,Same
+236,W,L,Green Bay Packers,Miami Dolphins,Same
+237,L,L,Denver Broncos,Los Angeles Rams,Same
+238,W,W,Tampa Bay Buccaneers,Arizona Cardinals,Same
+239,W,W,Los Angeles Chargers,Indianapolis Colts,Same
+240,W,W,Dallas Cowboys,Tennessee Titans,Same
+241,W,W,Arizona Cardinals,Atlanta Falcons,Same
+242,L,L,Chicago Bears,Detroit Lions,Same
+243,L,L,Jacksonville Jaguars,Houston Texans,Same
+244,L,L,Denver Broncos,Kansas City Chiefs,Same
+245,L,L,Miami Dolphins,New England Patriots,Same
+246,W,W,Indianapolis Colts,New York Giants,Same
+247,L,L,New Orleans Saints,Philadelphia Eagles,Same
+248,L,L,Pittsburgh Steelers,Baltimore Ravens,Same
+249,L,L,Carolina Panthers,Tampa Bay Buccaneers,Same
+250,W,W,Cleveland Browns,Washington Commanders,Same
+251,L,L,San Francisco 49ers,Las Vegas Raiders,Same
+252,W,W,New York Jets,Seattle Seahawks,Same
+253,W,W,Minnesota Vikings,Green Bay Packers,Same
+254,L,W,Los Angeles Rams,Los Angeles Chargers,Same
+255,W,W,Buffalo Bills,Cincinnati Bengals,Same
+256,W,W,Tampa Bay Buccaneers,Atlanta Falcons,Same
+257,L,L,New England Patriots,Buffalo Bills,Same
+258,W,W,Minnesota Vikings,Chicago Bears,Same
+259,L,W,Baltimore Ravens,Cincinnati Bengals,Same
+260,L,W,Houston Texans,Indianapolis Colts,Same
+261,W,W,Los Angeles Chargers,Denver Broncos,Same
+262,L,L,Detroit Lions,Green Bay Packers,Same
+263,W,L,Tennessee Titans,Jacksonville Jaguars,Same
+264,W,W,New York Jets,Miami Dolphins,Same
+265,L,L,Carolina Panthers,New Orleans Saints,Same
+266,L,L,New York Giants,Philadelphia Eagles,Same
+267,W,W,Cleveland Browns,Pittsburgh Steelers,Same
+268,L,L,Kansas City Chiefs,Las Vegas Raiders,Same
+269,W,W,Los Angeles Rams,Seattle Seahawks,Same
+270,W,W,Arizona Cardinals,San Francisco 49ers,Same
+271,W,W,Dallas Cowboys,Washington Commanders,Same
