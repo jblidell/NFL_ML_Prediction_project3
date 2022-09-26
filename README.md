@@ -18,9 +18,8 @@ Play-by-play data for 2022 season as data source
 
 3. [Accuracy.](#3-Simulation-Trajectories)
 
-4. [Back-End Functionality.](#4-Back-End-Functionality)
+4. [What's Next.](#4-What's-Next)
 
-5. [Compose the data story.](#5-compose-the-data-story)
 
 ---
 
@@ -37,6 +36,7 @@ Play-by-play data for 2022 season as data source
 * The output python script is located here **File:** [ML prediction with epa](./offense_defense_epa.ipynb)
 
  ![2](./pictures/chart.png)
+ ![2](./pictures/chart2.png)
 * API used on this project are as follows
    * `pandas`
    * `matplotlib`
@@ -47,60 +47,37 @@ Play-by-play data for 2022 season as data source
    * `datetime` 
    * `sklearn.model_selection` `cross_val_score`
    * `sklearn.linear_model`  `LogisticRegression`
-   
-* The website used for gather crypto data
-   * alternative
-   
-* Create a new DataFrame named `stocks_dataframe` by creating these columns and display the appropiate date.
-   * `Coins`	
-   * `Symbol`	
-   * `Category`	
-   * `Price`	
-   * `24Hr Volume`
-   * `Market Caplization`	
-   * `1hr % Change`	
-   * `24hrs %Change`	
-   * `7days %Change`	
-   * `Sharpe Ratio`	
-   * `Variance`
-   
-* Bar chart was created with predetermined currencies 
-* The % this portfolio has made within 1 year period
-* The line graph that shows how much money that would have been made if the user invested 1 year prior
-
 
 ## 3. Accuracy 
 
 The model was approximately 65.9% accurate and can definitely be improved. We believe the model may be more useful as a pre-game win probability model.
 
-* The output python script is located here **File:** [MC Database](.//mc_database.ipynb)
+* The output python script is located here **File:** [Output per game](./2022overallpredictions1.csv)
 
-These clips demonstrate the simulator running on our pre-selected portfolio data.
-Careful usage of this functionality can enhance our users ability to make informed long term portfolio selections.
 
-![3](./Images/MC-low_risk.gif)
+* API used on this project are as follows
+   * `pandas`
+   * `numpy`
+   * `pathlib`
+   * `sklearn.model_selection` `train_test_split`
+   * `pickle`
+
+![3](./pictures/image1.png)
 
 ---
 
-![4](./Images/MC-Plot.gif)
+![4](./pictures/image2.png)
+![8](./pictures/image3.png)
 
 ---
+![9](./pictures/image4.png)
+![10](./pictures/image5.png)
 
 
+## 4. What's Next
 
-## 4. Back-End Functionality
+We'd like to add EPA adjusted for opponent and also investigate how WP influences EPA predictability, as it's an intriguing topic with potential usefulness. Trying out other elements besides EPA could also be beneficial. Turnover rates, duration of possession, average number of plays run, average starting field position, special teams performance, QB specific play, and so on could all be valuable indicators. We found in the feature importance visualization that passing EPA per play had the strongest predictive power for a home team win and an away team win. Exploring QB specific features could help improve the model. Of course, that would require roster data for each week.
 
-![5](./Images/Low_Risk_Portfolio.png)
-![6](./Images/Screen%20Shot%202022-06-09%20at%204.40.23%20PM.png)
-
-The following portions of code demonstrate how we use historical data to project possible portfolio returns.
-
-## 5. Compose the Data Story
-
-We are giving the average person the opportunity to invest into cryptocurrency without the high-risk crypto is associated with. Our portfolios are designed to minimize long-term risk while benefiting from the accumulated growth of Bitcoin, Ethereum, Litecoin, and other leading cryptocurrencies.
-Tired of hearing about stocks that already made investors a lot of money? Our Crypto Porfolio Advisor picks top value stocks with strong long-term growth potential.
-
-Utilizing real-time data users will have access to their own personal crypto advisor at the palm of their hands, or on their computer.
 
 ## Contributors
 Michael Morton, Jarrett Lidell, Daniel Boyne, and Severo Fernandez
