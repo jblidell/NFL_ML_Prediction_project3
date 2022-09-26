@@ -34,15 +34,19 @@ Play-by-play data for 2022 season as data source
 
 ## 2. We-also-imported-the-following-datasets-to-establish-average-EPA/play
 
-* The output python script is located here **File:** [Crypto Results Porfolio](/results.py)
+* The output python script is located here **File:** [ML prediction with epa](./offense_defense_epa.ipynb)
 
- ![2](./Images/Screen%20Shot%202022-06-09%20at%201.46.14%20PM.png))
+ ![2](./pictures/chart.png)
 * API used on this project are as follows
-   * `yfinance`
-   * `sqlalchemy`
-   * `requests`
-   * `datetime`
-   * `statistics` 
+   * `pandas`
+   * `matplotlib`
+   * `numpy`
+   * `scipy`
+   * `seaborn` 
+   * `nfl_data_py` 
+   * `datetime` 
+   * `sklearn.model_selection` `cross_val_score`
+   * `sklearn.linear_model`  `LogisticRegression`
    
 * The website used for gather crypto data
    * alternative
