@@ -29,7 +29,7 @@ Play-by-play data for 2022 season as data source
 
 - Includes import functions for play-by-play data, weekly data, seasonal data, rosters, win totals, scoring lines, officials, draft picks, draft pick values, schedules, team descriptive info, combine results and id mappings across various sites.
     
-  
+ ![4](./pictures/sample.png) 
 
 ## 2. We-also-imported-the-following-datasets-to-establish-average-EPA/play
 
