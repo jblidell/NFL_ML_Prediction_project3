@@ -12,11 +12,11 @@ Play-by-play data for 2022 season as data source
  The class presentation is located here **File:** [Presentation of the EPA and ML Presentation](./SMU Team #2.pdf)
 
 ## Table of Contents
-1. [Front-end Interface](#1-Front-end-Interface)
+1. [nfl-data-py](#1-nfl-data-py)
 
-2. [Calculate and Plot the output from the CLI.](#2-Calculate-and-Plot-the-output-from-the-CLI)
+2. [Imported the following datasets to establish average EPA/play CLI](#2-We-also-imported-the-following-datasets-to-establish-average-EPA/play)
 
-3. [Simulation Trajectories.](#3-Simulation-Trajectories)
+3. [Accuracy.](#3-Simulation-Trajectories)
 
 4. [Back-End Functionality.](#4-Back-End-Functionality)
 
@@ -24,16 +24,15 @@ Play-by-play data for 2022 season as data source
 
 ---
 
-## 1. Front-end Interface
+## 1. nfl-data-py
 
-![1](./Images/Recording%202022-06-08%20at%2020.20.03.gif)
+- nfl_data_py is a Python library for interacting with NFL data sourced from nflfastR, nfldata, dynastyprocess, and Draft Scout.
 
-* The CLI python script is located here **File:** [Crypto Porfolio CLI](/appy2.py)
-* If then statement was built to personlize the type of investment to user wanted
+- Includes import functions for play-by-play data, weekly data, seasonal data, rosters, win totals, scoring lines, officials, draft picks, draft pick values, schedules, team descriptive info, combine results and id mappings across various sites.
     
   
 
-## 2. Calculate and Plot the output from the CLI
+## 2. We-also-imported-the-following-datasets-to-establish-average-EPA/play
 
 * The output python script is located here **File:** [Crypto Results Porfolio](/results.py)
 
@@ -66,7 +65,9 @@ Play-by-play data for 2022 season as data source
 * The line graph that shows how much money that would have been made if the user invested 1 year prior
 
 
-## 3. Simulation Trajectories
+## 3. Accuracy 
+
+The model was approximately 65.9% accurate and can definitely be improved. We believe the model may be more useful as a pre-game win probability model.
 
 * The output python script is located here **File:** [MC Database](.//mc_database.ipynb)
 
